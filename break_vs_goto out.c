@@ -22,7 +22,7 @@ int main(int argc, char **argv) {
     //     }
     // }
     
-    // Case2: 只输入一种情况即可（break）
+    // Case2: 只输出一种情况即可（break）
     // // 记录用户输入金额的变量
     // int x;
     // // one:1角、two:2角、three:5角
@@ -47,7 +47,7 @@ int main(int argc, char **argv) {
     //     if(res) break;
     // }
     
-    // Case3: 只输入一种情况即可（goto out）
+    // Case3: 只输出一种情况即可（goto out）
     // 记录用户输入金额的变量
     int x;
     // one:1角、two:2角、three:5角
